@@ -29,6 +29,7 @@
 // @match          *://*.twitch.tv/*
 // @match          *://*.xvideos.com/*
 // @match          *://*.pornhub.com/*
+// @match          *://m.pornhub.com/*
 // @match          *://*.vk.com/*
 // @match          *://*.vk.ru/*
 // @match          *://invidious.snopyta.org/*
@@ -129,7 +130,7 @@
 // @connect        onrender.com
 // @connect        workers.dev
 // @namespace      vot-cloudflare-min
-// @version        1.5.3.1
+// @version        1.5.3.2
 // @icon           https://translate.yandex.ru/icons/favicon.ico
 // @author         sodapng, mynovelhost, Toil, SashaXser, MrSoczekXD
 // @homepageURL    https://github.com/ilyhalight/voice-over-translation/issues
