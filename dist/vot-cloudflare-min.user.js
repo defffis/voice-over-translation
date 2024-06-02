@@ -133,8 +133,8 @@
 // @icon           https://translate.yandex.ru/icons/favicon.ico
 // @author         sodapng, mynovelhost, Toil, SashaXser, MrSoczekXD
 // @homepageURL    https://github.com/ilyhalight/voice-over-translation/issues
-// @updateURL      https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare-min.user.js
-// @downloadURL    https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare-min.user.js
+// @updateURL      https://raw.githubusercontent.com/defffis/voice-over-translation/master/dist/vot-cloudflare-min.user.js
+// @downloadURL    https://raw.githubusercontent.com/defffis/voice-over-translation/master/dist/vot-cloudflare-min.user.js
 // @supportURL     https://github.com/ilyhalight/voice-over-translation/issues
 // ==/UserScript==
 
