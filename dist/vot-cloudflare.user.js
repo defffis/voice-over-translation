@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name           [VOT Cloudflare] - Voice Over Translation
-// @name:de        [VOT Cloudflare] - Voice-Over-Video-Übersetzung
-// @name:es        [VOT Cloudflare] - Traducción de vídeo en off
-// @name:fr        [VOT Cloudflare] - Traduction vidéo voix-off
-// @name:it        [VOT Cloudflare] - Traduzione Video fuori campo
-// @name:ru        [VOT Cloudflare] - Закадровый перевод видео
-// @name:zh        [VOT Cloudflare] - 画外音视频翻译
+// @name           [DEFFFIS] - Voice Over Translation
+// @name:de        [DEFFFIS] - Voice-Over-Video-Übersetzung
+// @name:es        [DEFFFIS] - Traducción de vídeo en off
+// @name:fr        [DEFFFIS] - Traduction vidéo voix-off
+// @name:it        [DEFFFIS] - Traduzione Video fuori campo
+// @name:ru        [DEFFFIS] - Закадровый перевод видео
+// @name:zh        [DEFFFIS] - 画外音视频翻译
 // @description    A small extension that adds a Yandex Browser video translation to other browsers
 // @description:de Eine kleine Erweiterung, die eine Voice-over-Übersetzung von Videos aus dem Yandex-Browser zu anderen Browsern hinzufügt
 // @description:es Una pequeña extensión que agrega una traducción de voz en off de un video de Yandex Browser a otros navegadores
@@ -29,6 +29,7 @@
 // @match          *://*.twitch.tv/*
 // @match          *://*.xvideos.com/*
 // @match          *://*.pornhub.com/*
+// @match          *://m.pornhub.com/*
 // @match          *://*.vk.com/*
 // @match          *://*.vk.ru/*
 // @match          *://invidious.snopyta.org/*
@@ -128,13 +129,13 @@
 // @connect        deno.dev
 // @connect        onrender.com
 // @connect        workers.dev
-// @namespace      vot-cloudflare
-// @version        1.5.3.1
+// @namespace      vot-cloudflare-min
+// @version        1.5.3.3
 // @icon           https://translate.yandex.ru/icons/favicon.ico
 // @author         sodapng, mynovelhost, Toil, SashaXser, MrSoczekXD
 // @homepageURL    https://github.com/ilyhalight/voice-over-translation/issues
-// @updateURL      https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js
-// @downloadURL    https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js
+// @updateURL      https://raw.githubusercontent.com/defffis/voice-over-translation/master/dist/vot-cloudflare.user.js
+// @downloadURL    https://raw.githubusercontent.com/defffis/voice-over-translation/master/dist/vot-cloudflare.user.js
 // @supportURL     https://github.com/ilyhalight/voice-over-translation/issues
 // ==/UserScript==
 
